@@ -1,0 +1,10 @@
+{
+  "experiment_name": "small",
+  "parameters": 288746,
+  "best_epoch": 29,
+  "best_val_accuracy": 88.34,
+  "test_loss": 0.3660862023830414,
+  "test_accuracy": 87.91,
+  "test_error": 12.090000000000003,
+  "training_seconds": 177.08723129998543
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+results/
+smoke*/
+real_smoke/
+results_full/**/best.pt
+*.log

@@ -1,0 +1,14 @@
+{
+  "no_bn": {
+    "best_val_accuracy": 75.24,
+    "test_accuracy": 75.88,
+    "best_epoch": 17,
+    "elapsed_seconds": 169.82020940000075
+  },
+  "bn": {
+    "best_val_accuracy": 82.88,
+    "test_accuracy": 82.5,
+    "best_epoch": 12,
+    "elapsed_seconds": 171.53041320000193
+  }
+}

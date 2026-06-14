@@ -1,0 +1,18 @@
+{
+  "no_bn": {
+    "mean_loss_range": 0.4450431418012489,
+    "maximum_loss_range": 8.674303531646729,
+    "mean_loss_range_after_warmup": 0.4425169610295977,
+    "maximum_loss_range_after_warmup": 0.7551828920841217,
+    "median_gradient_change_per_distance": 87.66717467256352,
+    "mean_gradient_cosine_similarity": 0.26036354604855483
+  },
+  "bn": {
+    "mean_loss_range": 0.4481101789681072,
+    "maximum_loss_range": 3.0069220066070557,
+    "mean_loss_range_after_warmup": 0.44402326792478564,
+    "maximum_loss_range_after_warmup": 0.9229757189750671,
+    "median_gradient_change_per_distance": 152.7319358310967,
+    "mean_gradient_cosine_similarity": 0.2250934876667017
+  }
+}

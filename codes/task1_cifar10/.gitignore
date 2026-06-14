@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+data/
+dataset/
+results/**/best.pt
+results/task1/smoke/
+results/task1/real_data_smoke/

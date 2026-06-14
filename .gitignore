@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Datasets
+codes/task1_cifar10/data/
+codes/task1_cifar10/dataset/
+*.tar.gz
+
+# Model checkpoints: publish these as release/cloud assets.
+*.pt
+*.pth
+*.ckpt
+
+# Temporary experiment output
+**/smoke*/
+**/real_smoke/
+*.log
+
+# LaTeX build products
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+
+# Teacher-provided source material is kept locally, not in the submission repo.
+codes/VGG_BatchNorm/
+pic/
+project_2_2026.lyx
+project_2_2026.pdf
+bib.bib
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

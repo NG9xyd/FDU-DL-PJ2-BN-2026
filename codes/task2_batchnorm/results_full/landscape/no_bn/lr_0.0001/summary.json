@@ -1,0 +1,13 @@
+{
+  "batch_norm": false,
+  "parameters": 9750922,
+  "learning_rate": 0.0001,
+  "optimizer": "adam",
+  "epochs_completed": 5,
+  "steps_completed": 1760,
+  "best_epoch": 5,
+  "best_val_accuracy": 67.8,
+  "test_loss": 0.901736243724823,
+  "test_accuracy": 68.32,
+  "elapsed_seconds": 65.35790460000862
+}

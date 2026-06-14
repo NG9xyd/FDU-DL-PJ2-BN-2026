@@ -1,0 +1,10 @@
+{
+  "experiment_name": "no_regularization",
+  "parameters": 1148874,
+  "best_epoch": 28,
+  "best_val_accuracy": 90.36,
+  "test_loss": 0.3494850028991699,
+  "test_accuracy": 89.92,
+  "test_error": 10.079999999999998,
+  "training_seconds": 167.3174589999835
+}

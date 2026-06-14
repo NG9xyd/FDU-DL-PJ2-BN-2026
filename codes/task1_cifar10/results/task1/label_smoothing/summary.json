@@ -1,0 +1,10 @@
+{
+  "experiment_name": "label_smoothing",
+  "parameters": 1148874,
+  "best_epoch": 28,
+  "best_val_accuracy": 91.52,
+  "test_loss": 0.7584164935112,
+  "test_accuracy": 90.75,
+  "test_error": 9.25,
+  "training_seconds": 169.3103355000203
+}

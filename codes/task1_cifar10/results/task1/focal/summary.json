@@ -1,0 +1,10 @@
+{
+  "experiment_name": "focal",
+  "parameters": 1148874,
+  "best_epoch": 28,
+  "best_val_accuracy": 90.5,
+  "test_loss": 0.1655658061504364,
+  "test_accuracy": 89.95,
+  "test_error": 10.049999999999997,
+  "training_seconds": 158.17461950000143
+}

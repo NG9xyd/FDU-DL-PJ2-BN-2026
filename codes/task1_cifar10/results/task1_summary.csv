@@ -1,0 +1,8 @@
+experiment,channels,activation,batch_norm,dropout,loss,label_smoothing,optimizer,learning_rate,weight_decay,parameters,best_epoch,best_val_accuracy,test_accuracy,test_error,training_seconds
+baseline,"64,128,256",relu,True,0.3,cross_entropy,0.0,adam,0.001,0.0005,1148874,29,91.18,90.25,9.75,191.04839000001084
+focal,"64,128,256",relu,True,0.3,focal,0.0,adam,0.001,0.0005,1148874,28,90.5,89.95,10.049999999999997,158.17461950000143
+gelu,"64,128,256",gelu,True,0.3,cross_entropy,0.0,adam,0.001,0.0005,1148874,29,91.46,90.67,9.329999999999998,164.94925619999412
+label_smoothing,"64,128,256",relu,True,0.3,cross_entropy,0.1,adam,0.001,0.0005,1148874,28,91.52,90.75,9.25,169.3103355000203
+no_regularization,"64,128,256",relu,True,0.0,cross_entropy,0.0,adam,0.001,0.0,1148874,28,90.36,89.92,10.079999999999998,167.3174589999835
+sgd,"64,128,256",relu,True,0.3,cross_entropy,0.0,sgd,0.1,0.0005,1148874,47,92.68,92.06,7.939999999999998,296.65758509997977
+small,"32,64,128",relu,True,0.3,cross_entropy,0.0,adam,0.001,0.0005,288746,29,88.34,87.91,12.090000000000003,177.08723129998543

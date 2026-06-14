@@ -1,0 +1,10 @@
+{
+  "experiment_name": "baseline",
+  "parameters": 1148874,
+  "best_epoch": 29,
+  "best_val_accuracy": 91.18,
+  "test_loss": 0.30951441370248794,
+  "test_accuracy": 90.25,
+  "test_error": 9.75,
+  "training_seconds": 191.04839000001084
+}

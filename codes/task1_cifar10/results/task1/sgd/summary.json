@@ -1,0 +1,10 @@
+{
+  "experiment_name": "sgd",
+  "parameters": 1148874,
+  "best_epoch": 47,
+  "best_val_accuracy": 92.68,
+  "test_loss": 0.2762945514678955,
+  "test_accuracy": 92.06,
+  "test_error": 7.939999999999998,
+  "training_seconds": 296.65758509997977
+}

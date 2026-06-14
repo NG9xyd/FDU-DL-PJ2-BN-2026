@@ -1,0 +1,10 @@
+{
+  "experiment_name": "gelu",
+  "parameters": 1148874,
+  "best_epoch": 29,
+  "best_val_accuracy": 91.46,
+  "test_loss": 0.3010582562923431,
+  "test_accuracy": 90.67,
+  "test_error": 9.329999999999998,
+  "training_seconds": 164.94925619999412
+}
