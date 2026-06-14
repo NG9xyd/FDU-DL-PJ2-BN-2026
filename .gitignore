@@ -18,6 +18,7 @@ codes/task1_cifar10/dataset/
 *.log
 
 # LaTeX build products
+report/
 report/*.aux
 report/*.log
 report/*.out

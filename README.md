@@ -13,17 +13,12 @@
 | VGG-A（无 BN） | 75.88% |
 | VGG-A + BN | 82.50% |
 
-完整中文实验报告位于 `report/report.tex`。
-
 ## 目录结构
 
 ```text
 codes/
   task1_cifar10/       任务一模型、训练与可视化代码
   task2_batchnorm/     任务二 VGG-A 与 BN 实验代码
-report/
-  report.tex           LaTeX 实验报告
-  figures/             报告使用的实验图片
 MODEL_WEIGHTS.md       模型权重信息与下载链接
 ```
 
@@ -124,13 +119,3 @@ python run_experiments.py --mode landscape `
 
 项目报告要求提供训练后的模型权重。权重文件单独发布，不直接写入 Git 历史。
 文件名、校验值和下载链接见 `MODEL_WEIGHTS.md`。
-
-## 编译报告
-
-使用 XeLaTeX 编译中文报告：
-
-```powershell
-cd report
-xelatex report.tex
-xelatex report.tex
-```
